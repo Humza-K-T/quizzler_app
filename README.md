@@ -2,4 +2,4 @@
 
 A Quiz App Built in Flutter
 
-## Getting Started
+It is part of my Flutter Bootcamp Course.Based on OOP Concepts and Stateful Widgets
